@@ -1,17 +1,3 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
-
-Credits:
-
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		jQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-
+Step: 1: Download the meyawo folder on your pc and unzip it
+Step: 2: Go to public_html folder under meyawo folder 
+Step: 3: open the index.html in your browser.
